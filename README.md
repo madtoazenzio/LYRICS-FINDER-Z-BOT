@@ -17,7 +17,7 @@ A Simple Telegram Bot That Can Extract Lyrics Of Any Songs
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/M-fazin/Lyrics-Search-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/madtoazenzio/LYRICS-FINDER-Z-BOT)
 
 ---
 
